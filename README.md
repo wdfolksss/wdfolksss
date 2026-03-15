@@ -8,7 +8,7 @@
 
 <p>
   🚀 I love crafting beautiful, interactive web apps.<br>
-  👩‍💻 I've completed a Frontend Internship at <a href="https://mangcoding.com" target="_blank"><strong>Mangcoding</strong></a>2024, where I worked on real-world projects and collaborated using GitHub.<br>
+  👩‍💻 I've completed a Frontend Internship at <a href="https://mangcoding.com" target="_blank"><strong>Mangcoding</strong></a> 2024, where I worked on real-world projects and collaborated using GitHub.<br>
   🛠️ Currently improving my skills in JavaScript, Laravel, and Tailwind CSS.<br>
   🌟 Always curious to learn and explore new technologies!<br>
   💡 Passionate about turning creative ideas into real, responsive websites.<br>
