@@ -34,9 +34,18 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=wdfolksss&theme=dark&show_icons=true&hide_border=true&bg_color=00000000" height="160" />
-  <img src="https://streak-stats.demolab.com?user=wdfolksss&theme=dark&hide_border=true&background=00000000" height="160" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wdfolksss&theme=dark&hide_border=true&bg_color=00000000&layout=compact" height="160" />
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=wdfolksss&theme=dark&show_icons=true&hide_border=true&bg_color=00000000"
+    height="170"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=wdfolksss&theme=dark&hide_border=true&background=00000000"
+    height="170"
+  />
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=wdfolksss&theme=dark&hide_border=true&bg_color=00000000&layout=compact"
+    height="170"
+  />
 </p>
 
 ### ✍️ Random Dev Quote
