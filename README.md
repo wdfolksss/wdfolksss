@@ -34,8 +34,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-stats-extended.vercel.app/api?username=wdfolksss&theme=dark&show_icons=true&hide_border=false)
-![](https://streak-stats.demolab.com?user=wdfolksss&theme=dark&hide_border=false)
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=wdfolksss&theme=dark&hide_border=false&layout=compact)
+![](https://streak-stats.demolab.com?user=wdfolksss&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
