@@ -32,10 +32,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com?user=wdfolksss&theme=dark&hide_border=false)
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=wdfolksss&theme=dark&hide_border=false&layout=compact)
-![](https://github-stats-extended.vercel.app/api?username=wdfolksss&theme=dark&show_icons=true&hide_border=false)
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=wdfolksss&theme=dark&show_icons=true&hide_border=true&bg_color=00000000" height="160" />
+  <img src="https://streak-stats.demolab.com?user=wdfolksss&theme=dark&hide_border=true&background=00000000" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wdfolksss&theme=dark&hide_border=true&bg_color=00000000&layout=compact" height="160" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
